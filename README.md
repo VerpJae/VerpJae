@@ -2,7 +2,7 @@
 
 ### Stats
 ![VerpJae's github stats](https://github-readme-stats.vercel.app/api?username=VerpJae&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=VerpJae)](https://solved.ac/VerpJae/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eundaeng)](https://solved.ac/eundaeng/)
 [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=VerpJae&layout=compact)](https://github.com/VerpJae/github-readme-stats)
 
 

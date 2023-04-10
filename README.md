@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=80&section=header&text=EunDaengED&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=80&section=header&text=VerpJae&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
 ### Stats
-![EunDaengED's github stats](https://github-readme-stats.vercel.app/api?username=EunDaengED&show_icons=true)
+![VerpJae's github stats](https://github-readme-stats.vercel.app/api?username=VerpJae&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eundaeng)](https://solved.ac/eundaeng/)
 
 ### Platforms & Languages

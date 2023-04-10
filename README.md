@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=80&section=header&text=VerpJae&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VerpJae&fontAlignY=40&fontSize=50)
 
 ### Stats
 ![VerpJae's github stats](https://github-readme-stats.vercel.app/api?username=VerpJae&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eundaeng)](https://solved.ac/eundaeng/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=VerpJae)](https://solved.ac/VerpJae/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VerpJae&langs_count=8)](https://github.com/VerpJae/github-readme-stats)
+
 
 ### Platforms & Languages
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -10,6 +12,7 @@
 ![C++](https://img.shields.io/badge/c++-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
